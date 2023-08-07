@@ -1,7 +1,8 @@
 ## Hi, this is bhwa233 :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=lxw15337674)
 
 - :man_technologist: 一个前端开发
-- :house: [个人博客](https://lxw15337674.github.io/) , [新的个人博客](https://notion-next-plum-chi.vercel.app/)
+- :house: [个人博客](https://notion-next-plum-chi.vercel.app/) 
+- :house: [过时的个人博客](https://lxw15337674.github.io/) 
 
 ### Github Stats 
 
