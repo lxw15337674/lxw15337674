@@ -4,9 +4,6 @@
 - :house: [个人博客](https://notion-next-plum-chi.vercel.app/) 
 - :house: [过时的个人博客](https://lxw15337674.github.io/) 
 
-### Github Stats 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxw15337674&show_icons=true)
 
 ### some Project 
 
@@ -25,3 +22,7 @@
 [v-virtual-scroller](https://github.com/lxw15337674/v-virtualScroller)：基于vue的虚拟滚动组件。
 
 [v-tip](https://github.com/lxw15337674/v-tip)：基于vue的自定义指令提示框
+
+### Github Stats 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxw15337674&show_icons=true)
