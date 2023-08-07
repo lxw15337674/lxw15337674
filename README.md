@@ -11,6 +11,8 @@
 
 [wwhooks](https://github.com/lxw15337674/ww-hooks) ：React的自定义hook库
 
+[zustand-middleware-computed](https://github.com/lxw15337674/zustand-middleware-computed)：zustand中间件，增加计算属性功能
+
 [hugo-lovelt-algolia](https://github.com/lxw15337674/hugo-lovelt-algolia) : 一个命令库，可以根据Hugo静态站点内容，生成和发送Algolia的索引。
 
 [chrome-extension-switch-tab](https://github.com/lxw15337674/chrome-extension-switch-tab)：给标签页设置键盘快捷键，进行快捷切换的chrome插件
