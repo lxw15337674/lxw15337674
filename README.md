@@ -5,7 +5,7 @@
 - :house: [过时的个人博客](https://lxw15337674.github.io/) 
 
 
-### some Project 
+### Some Project 
 
 [wwhooks](https://github.com/lxw15337674/ww-hooks) ：React hook库
 
