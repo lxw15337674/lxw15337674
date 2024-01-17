@@ -9,7 +9,7 @@
 
 [wwhooks](https://github.com/lxw15337674/ww-hooks) ：React hook库
 
-[www-components](https://github.com/lxw15337674/www-components)：react 组件库
+[www-components](https://github.com/lxw15337674/www-components)：React 组件库
 
 [zustand-middleware-computed](https://github.com/lxw15337674/zustand-middleware-computed)：zustand中间件，增加计算属性功能
 
