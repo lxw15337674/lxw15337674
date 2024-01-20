@@ -19,11 +19,6 @@
 
 [微博同步关注列表](https://github.com/lxw15337674/weiboSyncFollow)：一个用来同步微博账号关注列表的js脚本。
 
-[v-contextMenu](https://github.com/lxw15337674/v-contextMenu)：vue2.0的右键菜单组件。
-
-[v-virtual-scroller](https://github.com/lxw15337674/v-virtualScroller)：vue2.0的虚拟滚动组件。
-
-[v-tip](https://github.com/lxw15337674/v-tip)：vue2.0的自定义指令提示框
 
 ### Github Stats 
 
