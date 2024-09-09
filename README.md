@@ -9,8 +9,6 @@
 
 [wwhooks](https://github.com/lxw15337674/ww-hooks) ：React hook库
 
-[www-components](https://github.com/lxw15337674/www-components)：React 组件库
-
 [zustand-middleware-computed](https://github.com/lxw15337674/zustand-middleware-computed)：zustand中间件，增加计算属性功能
 
 [hugo-lovelt-algolia](https://github.com/lxw15337674/hugo-lovelt-algolia) : 一个命令库，可以根据Hugo静态站点内容，生成和发送Algolia的索引。
