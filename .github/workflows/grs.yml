@@ -1,0 +1,30 @@
+name: Update GitHub Stats Cards
+
+on:
+  schedule:
+    # 每天北京时间上午11点(UTC 3:00)更新
+    - cron: "0 3 * * *"
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=lxw15337674&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats card" && git push)
