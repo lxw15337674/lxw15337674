@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">bhwa233's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 553, Total Commits  : 5982, Total PRs: 62, Total Issues: 51, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 553, Total Commits  : 5686, Total PRs: 62, Total Issues: 51, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 47.905377467306536;
+        stroke-dashoffset: 48.05630145126734;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >6k</text>
+      >5.7k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
